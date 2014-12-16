@@ -1,0 +1,17 @@
+{
+    "1": [
+        {
+        "city":"Bezrzecze",
+        "street":"Górna",
+        "start":"8:00",
+        "end":"10:30"
+        },
+        {
+        "city":"Dobra",
+        "street":"Graniczna",
+        "start":"11:00",
+        "end":"14:30"
+        }
+    ]
+    
+}
